@@ -3,7 +3,7 @@ Hi there 👋 I’m Ahmet,
   
 <!---👀 I’m interested in ... --->
 - 🌱 I’m currently learning Mobile Developing.
-- 🔭 I’m currently developing Inbox project at Turkcell Global Company which is Turkey Software company.
+- 🔭 I’m currently developing Inbox project at Fibabanka Company which is Turkey Software company.
 - 📫  inancahmettokgoz@gmail.com 
 
 <!---
